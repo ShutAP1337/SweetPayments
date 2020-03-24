@@ -70,6 +70,7 @@ No support will be provided and there will be no further development from my end
 * Administrator dashboard
 * Client ticket support
 * Paysafecard integration
+* Discord Webhook integration
 
 ## Note
 
